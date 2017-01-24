@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I think that all the files in the same folder get assigned to the same history. that means that later in the commits, when one or two is changed, the commit saves all the changes together. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is something in between, where the commit is not saved in the repository yet but the files that we are going to generate a commit for are added and selected.
+The value is that you can select the files that you want to make a commit for among many.
+
+
