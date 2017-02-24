@@ -14,3 +14,5 @@ you can know how how the others changed the code last and you can use your own c
 5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I have to send the code each time which ends in lots of files being exchanged. It is way easier with Github of course. 
 
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to add a feature that you are not sure you want to merge and that you may want to have other collaborators check it first. 
